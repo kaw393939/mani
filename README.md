@@ -40,6 +40,9 @@ or
 
 I am ready to proceed with any of these tasks at your instruction.
 
+### 4. Documentation
+For a detailed explanation of how we classify and verify the research papers, please refer to the [Classification Process Documentation](docs/classification_process.md).
+
 Respectfully,
 
 **GitHub Copilot**
